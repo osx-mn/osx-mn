@@ -15,4 +15,4 @@ Me interesa desarrollar herramientas que sirvan para mejorar futuras experiencia
 
 ---
 ### Mi stack tecnológico
-[![My Skills](https://skillicons.dev/icons?i=java,python,rust,js,ts,html,css,tailwind,react,nodejs,tauri,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,rust,js,ts,html,css,tailwind,react,nodejs,tauri,git,linux)](https://skillicons.dev)
