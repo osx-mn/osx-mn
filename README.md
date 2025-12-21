@@ -3,6 +3,4 @@
 #### Tecnologías
 Java · Python · Javascript · React · Tailwind · Rust · Tauri
 
-<div class="border-radius: 5px; height: 10px; background-color: white; font-color: black;">
-  Java
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,python,rust,js,ts,html,css,tailwind,react,nodejs,tauri,git)](https://skillicons.dev)
