@@ -1,4 +1,4 @@
-## Hola, Soy Osx-kar
+<img width="735" height="263" alt="image" src="https://github.com/user-attachments/assets/50d35405-c50a-468d-9ba5-eb51016ae946" />## Hola, Soy Osx-kar
 Soy un desarrollador de software adentrandose al mundo del desarrollo de herramientas.
 
 ---
@@ -16,3 +16,6 @@ Me interesa desarrollar herramientas que sirvan para mejorar futuras experiencia
 ---
 ### Mi stack tecnológico
 [![My Skills](https://skillicons.dev/icons?i=java,python,rust,js,ts,html,css,tailwind,react,nodejs,tauri,git,linux)](https://skillicons.dev)
+
+### mi Portfolio
+https://osxkar-portfolio.vercel.app
