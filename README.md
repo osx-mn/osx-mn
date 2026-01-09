@@ -1,4 +1,4 @@
-<img width="735" height="263" alt="image" src="https://github.com/user-attachments/assets/50d35405-c50a-468d-9ba5-eb51016ae946" />## Hola, Soy Osx-kar
+## Hola, Soy Osx-kar
 Soy un desarrollador de software adentrandose al mundo del desarrollo de herramientas.
 
 ---
