@@ -1,4 +1,4 @@
-## Hola, Soy Osx-kar
+## Hola, Soy osxkar
 Soy un desarrollador de software adentrandose al mundo del desarrollo de herramientas.
 
 ---
